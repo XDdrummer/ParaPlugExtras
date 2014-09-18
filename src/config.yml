@@ -1,1 +1,38 @@
-nil
+#|     __________                    __________.__                                |#
+#|     \______   \_____ ____________ \______   \  |  __ __  ____                  |#
+#|      |     ___/\__  \\_  __ \__  \ |     ___/  | |  |  \/ ___\                 |#
+#|      |    |     / __ \|  | \// __ \|    |   |  |_|  |  / /_/  >                |#
+#|      |____|    (____  /__|  (____  /____|   |____/____/\___  /                 |#
+#|                     \/           \/                   /_____/                  |#
+#|                 ______     __                                                  |#
+#|                / ____/  __/ /__________ ______                                 |#
+#|               / __/ | |/_/ __/ ___/ __ `/ ___/                                 |#
+#|              / /____>  </ /_/ /  / /_/ (__  )                                  |#
+#|             /_____/_/|_|\__/_/   \__,_/____/                                   |#
+#|                                                                                |#
+#|                 __                                                             |#
+#| ( _         (/  ) ) _ ) _     _ _   _ _   _   _                                |#
+#|  )_) (_(    /) /_/ (_( ) (_( ) ) ) ) ) ) )_) )                                 |#
+#|        _)                               (_                                     |#
+#|                                                                                |#
+#| This config is divided into multiple sections for your convenience.            |#
+#| Do NOT edit sections labeled 'Auto-Generated'.                                 |#
+#|                                                                                |#
+#|
+#| This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. 
+#| To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/ 
+#| or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+#| This license applies to this config, the plugin itself, the plugin code, the plugin.yml, and the name of the plugin.
+#|
+#|                                                                                |#
+#|                      ENJOY PARAPLUG EXTRAS!                                    |#
+#|                                                                                |#
+
+#| ADMIN CONFIG |# ~ #| EDIT THIS SECTION AS SEEN FIT |#
+partone-user:
+
+#| AUTO-GENERATED |#  ~ #| DO NOT EDIT THIS SECTION |#
+partone-auto:
+  isEnabled: true
+  isCustomCommandsEnabled: true
+
