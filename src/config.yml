@@ -28,11 +28,20 @@
 #|                      ENJOY PARAPLUG EXTRAS!                                    |#
 #|                                                                                |#
 
-#| ADMIN CONFIG |# ~ #| EDIT THIS SECTION AS SEEN FIT |#
-partone-user:
+#| ADMIN CONFIG |# ~ #| EDIT AS SEEN FIT, FOLLOW INSTRUCTIONS |#
+#Note: Custom Commands may be buggy!
+custom-commands:
+  #Number of custom commands to be loaded. Restart server and config will update to cater to this stat.
+  #Minimum: 1, Maximum: 25
+  numberOfCommandsToLoad: 1
+  #Home of your custom commands
+  ccommands:
+    #Default to one custom command. Editing 'numberOfCommandsToLoad' and restarting will result in more of these sections appearing.
+    customCommandOne:
+      
 
 #| AUTO-GENERATED |#  ~ #| DO NOT EDIT THIS SECTION |#
-partone-auto:
+auto:
   isEnabled: true
   isCustomCommandsEnabled: true
 
