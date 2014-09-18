@@ -15,6 +15,8 @@ public class ParaPlugExtras extends JavaPlugin {
     
     this.getCommand("setup-extras").setExecutor(SetupCommand(this));
     XDStrings.log("Loaded /setup-extras");
+    this.getCommand("reset-extras").setExecutor(ResetCommand(this));
+    XDStrings.log("Loaded /reset-extras");
     
   }
   
